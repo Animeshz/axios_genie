@@ -1,4 +1,5 @@
 target/
+main.db
 .env
 
 # temporary for now
